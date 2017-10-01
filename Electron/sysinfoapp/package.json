@@ -1,0 +1,14 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rafael Gomez-Amaro",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.8"
+  }
+}
