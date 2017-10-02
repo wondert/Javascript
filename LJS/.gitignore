@@ -1,0 +1,19 @@
+# npm debugging log
+npm-debug.log
+
+# project dependencies
+node_modules
+
+# OSX folder attributes
+.DS_Store
+
+# log files
+*.log
+
+# temporary files
+*.tmp
+*~
+
+# transpiled js folders
+public/dist
+dist

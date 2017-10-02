@@ -1,0 +1,20 @@
+.myheader p {
+    color: dodgerblue;
+}
+
+#mainCanvas {
+    width: 400px;
+    height: 401px;
+    border: solid 2px rgb(180, 180, 180);
+}
+
+#reset-button {
+    width: 200px;
+    height: 45px;
+    color: white;
+    font-size: 35px;
+    font-family: "Calibri";
+    text-align: center;
+    background-color: rgb(60, 179, 113);
+    border: 1px solid rgb(60, 179, 113);
+}
