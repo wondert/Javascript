@@ -1,0 +1,11 @@
+{
+  "name": "parsecontents",
+  "version": "1.0.0",
+  "description": "display parsed file contents ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rafael Gomez-Amaro",
+  "license": "MIT"
+}

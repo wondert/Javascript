@@ -1,0 +1,11 @@
+{
+  "name": "fileviewer",
+  "version": "1.0.0",
+  "description": "Renders files to window",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rafael Gomez-Amaro",
+  "license": "MIT"
+}

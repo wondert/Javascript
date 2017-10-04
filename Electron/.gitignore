@@ -1,0 +1,11 @@
+# npm debugging log
+npm-debug.log
+
+# project dependencies
+node_modules
+
+# electron app builds
+release-builds
+
+# electron demo
+ElectronAPIDemosSetup.exe

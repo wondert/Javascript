@@ -1,0 +1,11 @@
+{
+  "name": "youtubetutorial",
+  "version": "1.0.0",
+  "description": "Electron tutorial based on youtube series by Cameron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rafael Gomez-Amaro",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MyFileRenderer</title>
+</head>
+<body>
+    <script>
+        // load node core modules, fs + os
+        const fs = require('fs');
+        const os = require('os');
+
+        // captures file path relative to os home directory. reads file contents into an array.
+        const files = fs.readdirSync(os.homedir());
+
+        // join elements of array into a string. insert bracket tags between them. then dynamically load into window
+        document.innerHTML = files[0].toString();
+        //join('<br>')[0];    
+    </script>
+</body>
+</html>
